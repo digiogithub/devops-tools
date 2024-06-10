@@ -1,0 +1,6 @@
+{
+  "name": "devops-tools",
+  "sdk": "typescript",
+  "source": "dagger",
+  "engineVersion": "v0.9.10"
+}
